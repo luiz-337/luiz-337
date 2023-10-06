@@ -31,9 +31,22 @@ Connect with me, and let's make history through code! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%" />
 </div>
 
-#
+<br />
+
+## My contacts:
+
+<br />
 
 <div>
+  <a href="https://www.linkedin.com/in/luiz-gustavo-silva-de-albuquerque337/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:luiz.albuquerque337@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/21152143/luiz" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/luiz-337" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+</div>
+
+<br />
+
+<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiz-337&show_icons=true&count_private=true&hide_border=true&title_color=4088f9&icon_color=4088f9&text_color=ffffff&bg_color=0d1117" alt="Luiz github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-337&layout=compact&hide_border=true&title_color=4088f9&text_color=ffffff&bg_color=0d1117" />
@@ -41,12 +54,13 @@ Connect with me, and let's make history through code! 🚀
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luiz-337&bg_color=0d1117&color=ffffff&line=1057bf&point=4088f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br />
-
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=luiz-337&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+<br />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luiz-337&bg_color=0d1117&color=ffffff&line=1057bf&point=4088f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2068d3&height=120&section=footer" />
