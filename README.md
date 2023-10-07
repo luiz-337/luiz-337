@@ -66,3 +66,5 @@ Connect with me, and let's make history through code! 🚀
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2068d3&height=120&section=footer" />
+
+[//]: <> (Copyright by Luiz Albuquerque 2023)
